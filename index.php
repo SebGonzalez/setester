@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Accueil</title>
  
-	<link rel="stylesheet" href="font/css/font-awesome.min.css" /> <!-- inclusion des icones -->	
+	<link rel="stylesheet" href="css/font/font-awesome.min.css" /> <!-- inclusion des icones -->	
 
 	
 </head>
